@@ -1,0 +1,3 @@
+PORT = 5000
+mode = development
+MONGO_URL = mongodb+srv://Nacir14:nasrou@nodeexpessproject.teo9d.mongodb.net/?retryWrites=true&w=majority
